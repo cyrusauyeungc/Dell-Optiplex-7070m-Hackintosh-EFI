@@ -23,19 +23,20 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 
 ### What's working?
 
-*   Airdrop/Handoff/Continuity 
+*   Airdrop/Handoff/Continuity
 *   Restart, Sleep, Wakeup and Shutdown
 *   Internal Speaker, 3.5mm Audio Output
 *   Wifi
-*   Display Port Output 
+*   Display Port Output
 *   All USB Port
 *   Boot Chime
 
 ### Not Work/ Pending for testing
 
-*   Unlock with Apple Watch
-*   Microphone Jack
-*   Display Port Audio Out
+*   (Pending) Unlock with Apple Watch
+*   (Pending) Microphone Jack
+*   (Pending) Display Port Audio Out
+*   (Not Working) DRM Content on Safari
 
 ### Steps (Always refer to OpenCore Install Guide [here](https://dortania.github.io/OpenCore-Install-Guide/))
 
