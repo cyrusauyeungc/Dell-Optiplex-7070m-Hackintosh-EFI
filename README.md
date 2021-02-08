@@ -39,6 +39,8 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 *   (Not Working) DRM Content on Safari
 *   (Not Working) Wake on Wi-Fi (only wake on ethernet is available in power settings)
 
+![1612789823691.png](https://www.tonymacx86.com/attachments/1612789823691-png.508421/)
+
 ### Steps (Always refer to OpenCore Install Guide [here](https://dortania.github.io/OpenCore-Install-Guide/))
 
 1.  Format your USB Drive to MacOS Journaled / GUID Partition
