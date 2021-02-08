@@ -37,6 +37,7 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 *   (Pending) Microphone Jack
 *   (Pending) Display Port Audio Out
 *   (Not Working) DRM Content on Safari
+*   (Not Working) Wake on Wi-Fi (only wake on ethernet is available in power settings)
 
 ### Steps (Always refer to OpenCore Install Guide [here](https://dortania.github.io/OpenCore-Install-Guide/))
 
