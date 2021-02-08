@@ -7,7 +7,7 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 
 ## Hackintosh macOS Big Sur 11.2 Build 20D64 at Dell Optiplex 7070 Micro Form Factor
 
-![](https://user-images.githubusercontent.com/69232468/107272083-1f68f200-6a88-11eb-9e81-30880504099a.png)
+![](https://user-images.githubusercontent.com/69232468/107272303-77075d80-6a88-11eb-8260-4f8445f901d2.png)
 
 ### Specifications
 
