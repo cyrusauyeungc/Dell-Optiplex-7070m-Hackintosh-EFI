@@ -5,11 +5,9 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 
 ---
 
-## Hackintosh macOS Big Sur 11.1 Build 20C69 at Dell Optiplex 7070 Micro Form Factor
+## Hackintosh macOS Big Sur 11.2 Build 20D64 at Dell Optiplex 7070 Micro Form Factor
 
-![](https://user-images.githubusercontent.com/69232468/107194292-d20a6780-6a2a-11eb-96c8-e15f43806466.png)
-
-![](https://user-images.githubusercontent.com/69232468/107194426-fcf4bb80-6a2a-11eb-84b2-c56a7b35933d.png)
+![](https://user-images.githubusercontent.com/69232468/107272083-1f68f200-6a88-11eb-9e81-30880504099a.png)
 
 ### Specifications
 
@@ -24,6 +22,7 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 ### What's working?
 
 *   Airdrop/Handoff/Continuity
+*   Unlock with Apple Watch
 *   Restart, Sleep, Wakeup and Shutdown
 *   Internal Speaker, 3.5mm Audio Output
 *   Wifi
@@ -33,7 +32,6 @@ Thanks @[liaoyudong](https://github.com/liaoyudong2/Dell-7070-mff-hackintosh) fo
 
 ### Not Work/ Pending for testing
 
-*   (Pending) Unlock with Apple Watch
 *   (Pending) Microphone Jack
 *   (Pending) Display Port Audio Out
 *   (Not Working) DRM Content on Safari
